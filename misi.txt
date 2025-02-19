@@ -1,0 +1,122 @@
+1. Kuasai Dasar-Dasar (Bulan 1-3)
+HTML & CSS:
+
+Pelajari struktur HTML, semantic tags, forms.
+
+Kuasai CSS: flexbox, grid, responsive design (media queries), CSS frameworks (Bootstrap/Tailwind).
+
+Proyek: Buat landing page responsif.
+
+JavaScript Dasar:
+
+Pahami sintaks dasar (variabel, loop, conditional), DOM manipulation, event handling.
+
+Pelajari konsep asynchronous (fetch API, promises).
+
+Proyek: Todo List sederhana atau kalkulator.
+
+2. Pelajari Framework Frontend (Bulan 4-6)
+Pilih React (paling populer) atau Vue.js/Svelte:
+
+Pelajari komponen, state management (React Hooks atau Vuex), routing.
+
+Integrasi dengan API.
+
+Proyek: Aplikasi cuaca, e-commerce mini, atau blog pribadi.
+
+Tools Pendukung:
+
+Package manager (npm/yarn).
+
+Module bundler (Webpack/Vite).
+
+3. Pelajari Backend Development (Bulan 7-9)
+Bahasa & Framework:
+
+Node.js + Express.js (JavaScript) atau Python + Django/Flask.
+
+Pahami RESTful API, autentikasi (JWT/OAuth), CRUD operations.
+
+Database:
+
+SQL (MySQL/PostgreSQL) atau NoSQL (MongoDB).
+
+Pelajari ORM seperti Sequelize (Node.js) atau SQLAlchemy (Python).
+
+Proyek: Bangun API untuk aplikasi blog atau toko online.
+
+4. Pelajari Version Control (Sejak Awal)
+Git & GitHub/GitLab:
+
+Pelajari commit, branch, merge, pull request.
+
+Praktekkan kolaborasi dengan tim kecil (misal: proyek open source mini).
+
+5. Deployment & DevOps Dasar (Bulan 10-12)
+Hosting:
+
+Pelajari layanan seperti Vercel (frontend), Heroku, atau AWS/Azure (backend).
+
+Deploy proyek frontend + backend.
+
+CI/CD:
+
+Otomatisasi deploy dengan GitHub Actions/GitLab CI.
+
+Server Management:
+
+Dasar-dasar Docker, Linux command line.
+
+6. Bangun Portofolio (Berkelanjutan)
+Kumpulkan 5-10 proyek:
+
+Sertakan proyek full-stack (frontend + backend + database).
+
+Host di GitHub dan tampilkan di website portofolio.
+
+Contoh: [NamaAnda].github.io atau website pribadi menggunakan React + CMS.
+
+7. Asah Soft Skills
+Problem Solving: Latihan di platform seperti LeetCode, Codewars.
+
+Komunikasi: Pelajari cara menjelaskan kode secara jelas (penting untuk interview).
+
+Kolaborasi: Ikut proyek open source atau hackathon.
+
+8. Ikuti Perkembangan Teknologi
+Subscribe newsletter/webinar:
+
+CSS-Tricks, Dev.to, FreeCodeCamp.
+
+Follow developer influencer di Twitter/YouTube.
+
+Pelajari tren terkini:
+
+TypeScript, Jamstack (Next.js), atau serverless architecture.
+
+9. Cari Pengalaman Nyata
+Lamar magang atau freelance project (platform seperti Upwork/Proyek Kampus).
+
+Buat proyek untuk teman/UMKM sekitar.
+
+10. Sertifikasi (Opsional)
+FreeCodeCamp
+
+Coursera (Meta Frontend/Backend Professional Certificate)
+
+AWS Cloud Practitioner (jika tertarik cloud).
+
+Contoh Timeline
+Bulan	Fokus
+1-3	HTML, CSS, JavaScript
+4-6	React, Git, API dasar
+7-9	Node.js, Database, REST API
+10-12	Deployment, Portofolio
+Tips Tambahan:
+Jangan Menghafal! Fokus pada pemahaman konsep.
+
+Konsisten: Luangkan 1-2 jam/hari untuk belajar.
+
+Jangan Takut Error: Debugging adalah bagian dari proses.
+
+Semangat! 🚀 Dengan konsistensi, kamu bisa menjadi web developer dalam 6-12 bulan.
